@@ -78,7 +78,7 @@ const Data = [
   {
     id: 1,
     img: img1,
-    link: "https://aam881011.github.io/project-2/",
+    link: "https://aam881011.github.io/CRUD/",
     title: "Product Manager System",
     text: "HTML",
     text2: "CSS",
